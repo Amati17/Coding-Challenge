@@ -1,0 +1,92 @@
+body{
+  background-image: url(background.jpg);
+  background-size: 1200px;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.box1{
+  margin-left: 250px;
+  margin-top: -370px;
+  color: #000;
+  background-color: black;
+  opacity: 0.5;
+  width: 800px;
+  height: 600px;
+}
+.conteiner{
+  margin-top: -220px;
+  width: 700px;
+  margin: auto;
+  text-align: center;
+  height: -800px;
+
+}
+
+.logo{
+  width:200px;
+  margin: auto;
+  text-align: center;
+}
+
+.Text{
+  color: green;
+  margin: auto;
+  text-align: center;
+}
+.button{
+  margin: auto;
+  text-align: center;
+}
+.background{
+  text-align: center;
+  margin: auto;
+  width: 700px;
+  height: 21px;
+  background-color: green;
+}
+
+.row{
+    color: white;
+    height: -1200px;
+    
+}
+
+.row-left{
+  text-align: left;
+  margin-left: 325px
+}
+.freccia{
+  color: white;
+}
+
+.distanza{
+  color: white;
+}
+
+.carica{
+  color: white;
+}
+
+.gino{
+  color: white;
+}
+
+.carica{
+  text-decoration-color: white;
+}
+
+.w1-orange{
+  background: orange;
+  width: 260px;
+}
+.w2-green{
+  background: green;
+  width: 470px
+}
+
+.w3-conteiner{
+  background: red;
+  width: 125px;
+  align-self: center;
+
+}
